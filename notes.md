@@ -1,15 +1,17 @@
 ## Steps to homework completion:
 
-1. 
-Added manifest.webmanifest file: configured icons, theme, and display: standalone.
+### IndexedDB, Web Manifest, Service-Worker WEEK 18 HOMEWORK
 
-2. 
-Added service-worker.js file: configured FRONT END FILES_TO_CACHE. 
+Purpose of this application was to add offline functionality
 
-Install, Activate, Fetch middleware
+---
 
-3. 
+1. Added manifest.webmanifest file: configured icons, theme, and display: standalone.
 
-Added IndexedDB functionality and saveRecord(transaction) functionality. 
+2. Added service-worker.js file: configured FRONT END FILES_TO_CACHE. 
 
-Created db.js 
+    Install, Activate, Fetch middleware
+
+3. Added IndexedDB functionality and saveRecord(transaction) functionality. 
+
+    Created db.js 
