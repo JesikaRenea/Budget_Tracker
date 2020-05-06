@@ -1,6 +1,6 @@
-## Steps to homework completion:
+# Steps to homework completion:
 
-### IndexedDB, Web Manifest, Service-Worker WEEK 18 HOMEWORK
+## IndexedDB, Web Manifest, Service-Worker WEEK 18 HOMEWORK
 
 Purpose of this application was to add offline functionality
 
@@ -18,7 +18,7 @@ Purpose of this application was to add offline functionality
 
 ---
 
-### Key Takeaways:
+## Key Takeaways:
 
 1. Connecting MongoDB to Heroku deployment: 
 
@@ -45,3 +45,15 @@ Purpose of this application was to add offline functionality
  `store.add(record);}`
     
 3. Connect the saveRecord() to your index.js, to save to the indexedDB if the DB is not online. 
+---
+
+## In-Class Activity References:
+
+1. IndexedDB: 
+    17.3 exercise 26 
+
+2. Manifest:
+    18.2 exercise 08
+
+3. Service-Worker
+    18.2 exercise 10
